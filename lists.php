@@ -4,6 +4,7 @@
 
 <h3>Índice:</h3>
 <ul>
+    <li><a href="https://www.w3schools.com/html/html_lists.asp" target="_blank">Listas no W3Schools</a></li>
     <li>Listas não ordenadas</li>
     <li>Listas ordenadas</li>
     <li>Listas de definição</li>
@@ -102,45 +103,66 @@
 </dl>
 
 <h3>Exercícios:</h3>
-
-<p><strong>Exercício 1:</strong>Crie uma lista não ordenada com os nomes dos alunos da turma.</p>
-
-<ul>
-    <li>Davi da Silva</li>
-    <li>Erika</li>
-    <li>Wendel</li>
-    <li>Daniel</li>
-    <li>João</li>
-    <li>Caio</li>
-</ul>
-
-<p><strong>Exercício 2:</strong> Crie uma lista ordenada das tarefas a serem executadas na manhã de amanhã.</p>
-
 <ol>
-    <li>Escovar os dentes</li>
-    <li>Lavar o Rosto</li>
-    <li>Tomar café</li>
-    <li>Tomar banho</li>
-    <li>Estudar HTML e CSS</li>
+    <li>Crie uma lista não ordenada com os nomes dos alunos da turma.</li>
+    <li>Crie uma lista ordenada das tarefas a serem executadas na manhã de amanhã.</li>
+    <li>Crie uma lista definindo cada uma das tags usadas em listas HTML.</li>
 </ol>
 
-<p><strong>Exercício 3:</strong> Crie uma lista definindo cada uma das tags usadas em listas HTML.</p>
-    
+<hr>
+
+<h3>Soluções dos exercícios</h3>
+
+<h4>Exercício 1</h4>
+<p><em>Este é um exemplo de solução, não a solução definitiva. Para ver a solução, exiba o código fonte desta página.</em></p>
+
+<ul>
+    <li>Anderson</li>
+    <li>Caio</li>
+    <li>Daniel</li>
+    <li>Davi</li>
+    <li>David</li>
+    <li>Erika</li>
+    <li>Gabriel</li>
+    <li>João</li>
+    <li>Luca</li>
+    <li>Lucas</li>
+    <li>Rodrigo</li>
+    <li>Stefan</li>
+    <li>Vinícius</li>
+    <li>Wendel</li>
+</ul>
+
+<h4>Exercício 2</h4>
+<p><em>Este é um exemplo de solução, não a solução definitiva. Para ver a solução, exiba o código fonte desta página.</em></p>
+
+<ol>
+    <li>10:00 - Acordar</li>
+    <li>10:10 - Cochilar</li>
+    <li>10:50 - Acordar atrasado</li>
+    <li>10:55 - Escovar os dentes</li>
+    <li>11:00 - Nõ tomar banho porque está sem água</li>
+    <li>11:05 - Encher-se de perfume para disfarçar o cheiro</li>
+    <li>11:10 - Sair para trabalhar com fome porque se atrasou</li>
+    <li>12:00 - Comer porcaria no cmelô para matar a fome</li>
+</ol>
+
+<h4>Exercício 3</h4>
+<p><em>Este é um exemplo de solução, não a solução definitiva. Para ver a solução, exiba o código fonte desta página.</em></p>
+
 <dl>
     <dt>UL</dt>
-    <dd>Crie uma lista não ordenada.</dd>
-
+    <dd>Cria uma lista não ordenada</dd>
     <dt>OL</dt>
-    <dd>Crie uma lista ordenada.</dd>
-
+    <dd>Cria uma lista ordenada</dd>
+    <dt>LI</dt>
+    <dd>Cria um item de lista ordenada ou não ordenada</dd>
     <dt>DL</dt>
-    <dd>Definição da lista.</dd>
-
+    <dd>Cria uma lista de definições</dd>
     <dt>DT</dt>
-    <dd>Termo a ser definido.</dd>
-
+    <dd>Cria um termo a ser definido</dd>
     <dt>DD</dt>
-    <dd>Definição do termo</dd>
+    <dd>Apresenta a definição do termo</dd>
 </dl>
 
 <?php require __DIR__ . "/_footer.php"; ?>

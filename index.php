@@ -6,6 +6,8 @@
 
 <p>Use o menu principal para navegar entre os exemplos.</p>
 
+<p><em><strong>Dica!</strong> Exiba o código fonte da página no navegador para ter uma visão completa dos códigos.</em></p>
+
 <h4>Referências:</h4>
 
 <ul>

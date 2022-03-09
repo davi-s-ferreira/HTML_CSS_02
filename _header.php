@@ -24,6 +24,8 @@
         <a href="/lists.php">LISTAS</a>
         &bull;
         <a href="/forms.php">FORMULÁRIOS</a>
+        &bull;
+        <a href="/login.php">LOGIN</a>
     </nav>
 
     <hr>
